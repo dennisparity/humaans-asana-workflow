@@ -8,6 +8,7 @@ Humaans -> Asana Bot to kickstart a couple of people processes by adding relevan
 
 **2.** Install required dependencies
 
+```
 pip3 install -r requirements.txt
 ```
 
