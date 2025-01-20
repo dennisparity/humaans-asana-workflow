@@ -7,6 +7,7 @@ Humaans -> Asana Bot to kickstart a couple of people processes by adding relevan
 **1.** Make sure you have Python 3.10+ installed on your machine
 
 **2.** Install required dependencies
+
 pip3 install -r requirements.txt
 ```
 
