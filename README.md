@@ -20,7 +20,7 @@ ASANA_TOKEN='...' python3 <your_script.py>
 
 ## Scripts
 
-### OpenGov Proposal Tracking
+### Humaans New Joiner Tracking
 
 - **Script:** TBC
 - **Example Board:** https://app.asana.com/0/1208107121023942/1208108833959154
